@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+*{
+   padding: 0;
+   margin: 0;
+}
+p{
+    color: blueviolet;
+    font-size: 20px;
+
+
+}
+
+.parrafoPrincipal {
+    color: rgb(7, 1, 7);
+    font-size: 25px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+    
+
+#parrafoAside {
+    color: blueviolet;;
+    font-size: 60px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+.seccionHerencia {
+    color: blueviolet;
+    font-size: 35px;
+    background-color: aquamarine;
+    text-align: center;
+   
+    font-family:  'Poppins', sans-serif;
+    
+}
+.LOGO{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+.KITESURF{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navegacion .listaNav .listaItem {
+    color:blueviolet;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    
+    display: inline-block;
+    background-color: aquamarine;
+    text-align: center;
+    list-style: none;
+    margin: 20px;
+    
+     }
+     
+.TITULO{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    
+}
+
+
+.CONTACTO{
+    text-align: center; 
+    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.UBICACION {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.DERECHOS{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+}
+
+.PRODUCTOS{
+    text-align: center;
+    background-color: aquamarine;
+
+
+}
+
+.COMPRAR{
+    margin: 20px 20px 20px 20px
+    bac
+}
+.VIDEO{
+    text-align: center;
+    background-color: aquamarine;
+}
+
