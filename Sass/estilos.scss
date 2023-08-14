@@ -16,22 +16,24 @@
 }
 
 
+.DERECHOS{
+    text-align: $espaciado-estandar;
+    background-color:$color-tercerio;
+    font-family: $tipografia-general;
+}
 
 
 .TITULO{
     text-align:$espaciado-estandar;
     background-color:$color-tercerio;
-    font-family: $tipografia-general;
+    font-family:$tipografia-general;
     font-weight: 700;
-    .DERECHOS{
-        text-align: $espaciado-estandar;
-        background-color:$color-tercerio;
-        font-family: $tipografia-general;
+    
     }
     
     
     
-}
+
 .backraound{
     background-color: $color-primario;
     font-family: $tipografia-general;
@@ -48,3 +50,5 @@
         Display: flex;
         }
 }
+
+

@@ -15,7 +15,7 @@
 .CONTACTO{
     text-align: $espaciado-estandar; 
     background-color: $color-primario;
-    font-family: $tipografia-general;
+    font-family:$tipografia-general; 
     
 }
 UBICACION {
@@ -49,3 +49,8 @@ UBICACION {
     object-fit: cover;
 }
 
+.img-fluid {
+    max-width: 100%;
+     height: auto;
+
+}
