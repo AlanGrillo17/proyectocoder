@@ -1,0 +1,114 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"); /*{
+padding: 0 
+margin: 0  
+}*/
+.carousel-item {
+  height: 100% h;
+  width: 100%;
+  object-fit: cover;
+}
+
+.carousel-item img {
+  height: 60vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+.CONTACTO {
+  text-align: center;
+  background-color: aquamarine;
+  font-family: "Poppins", sans-serif;
+}
+
+UBICACION {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.PRODUCTOS {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.COMPRAR {
+  margin: 20px 20px 20px 20px bac;
+}
+
+.VIDEO {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.contenedorImgbanner {
+  width: 100%;
+  height: 50%;
+}
+
+.contenedorImgbanner img {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.KITESURF {
+  text-align: center;
+  background-color: aquamarine;
+  font-family: "Poppins", sans-serif;
+}
+.KITESURF .SpotText {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+
+.SpotTextFOOTER {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+.SpotTextFOOTER .seccionREDES {
+  color: blueviolet;
+  font-size: 35px;
+  background-color: aquamarine;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.backraound {
+  background-color: aquamarine;
+}
+.backraound .bgrceleste {
+  background-color: coral;
+}
+
+.DERECHOS {
+  text-align: center;
+  background-color: coral;
+  font-family: "Poppins", sans-serif;
+}
+
+.TITULO {
+  text-align: center;
+  background-color: coral;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.backraound {
+  background-color: aquamarine;
+  font-family: "Poppins", sans-serif;
+}
+.backraound .navbar-light .navbar-nav .nav-link.colorRojo {
+  color: blueviolet;
+}
+.backraound .contenedorImgBanner {
+  Width: 100% height 100% Background-size cover;
+  Background-position: start;
+  Display:  flex;
+}/*# sourceMappingURL=estilos.css.map */
